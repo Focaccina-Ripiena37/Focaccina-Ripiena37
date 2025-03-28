@@ -31,11 +31,28 @@ Sviluppatore appassionato con esperienza in Python, JavaScript e tecnologie web.
 
 ## 🚀 Progetti in evidenza
 
-### [Duo Calendar](https://github.com/Focaccina-Ripiena37/Duo-Calendar)
-Una private shared calendar web application per Lorenzo ed Emma, con autenticazione semplice e visualizzazione colorata degli eventi.
+### Duo Calendar
+Una private shared calendar web application, con autenticazione semplice e visualizzazione colorata degli eventi.
 - **Tecnologie**: Flask, JavaScript, FullCalendar.js, Bootstrap
 - **Funzionalità**: Autenticazione, gestione eventi, visualizzazioni multiple del calendario
-- **Demo**: [duo-calendar.onrender.com](https://duo-calendar.onrender.com)
+- **Demo**: Privata
+
+### Whishlist WebApp
+Whishlist condivisa privata con:
+- Creazione e gestione di una lista dei desideri personale  
+- Aggiunta di elementi con titolo, descrizione e link  
+- Modifica o eliminazione di elementi in qualsiasi momento  
+- Interfaccia semplice, pensata per uso personale o in coppia  
+- Salvataggio persistente dei dati tramite file locale 
+
+- **🛠️ Tecnologie**:
+  - **Python** – logica di backend semplice e leggibile  
+  - **Flask** – framework leggero per creare la webapp  
+  - **HTML/CSS** – interfaccia utente base e responsiva  
+  - **JavaScript** – per eventuale interattività lato client  
+  - **JSON** – usato come database leggero per salvare le wishlist  
+
+---
 
 ## 🌱 Sto imparando
 
