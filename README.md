@@ -26,46 +26,25 @@
 
 </div>
 
-<div align="center">
+<p align="center">
+  <!-- Stats senza nome -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Focaccina-Ripiena37&show_icons=true&hide_title=true&theme=radical" />
+</p>
 
-<!-- Stats principali -->
-<picture>
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api?username=Focaccina-Ripiena37&show_icons=true&theme=radical"
-    media="(prefers-color-scheme: dark)" />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Focaccina-Ripiena37&show_icons=true&theme=default"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Focaccina-Ripiena37&show_icons=true" alt="GitHub Stats" />
-</picture>
+<p align="center">
+  <!-- Lingue reali dalle repo -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Focaccina-Ripiena37&layout=compact&theme=radical" />
+</p>
 
-<br />
+<p align="center">
+  <!-- Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Focaccina-Ripiena37&theme=radical" />
+</p>
 
-<!-- Streak -->
-<picture>
-  <source 
-    srcset="https://github-readme-streak-stats.herokuapp.com/?user=Focaccina-Ripiena37&theme=radical"
-    media="(prefers-color-scheme: dark)" />
-  <source
-    srcset="https://github-readme-streak-stats.herokuapp.com/?user=Focaccina-Ripiena37&theme=default"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Focaccina-Ripiena37" alt="GitHub Streak" />
-</picture>
-
-<br />
-
-<!-- Top languages -->
-<picture>
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Focaccina-Ripiena37&layout=compact&theme=radical"
-    media="(prefers-color-scheme: dark)" />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Focaccina-Ripiena37&layout=compact&theme=default"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Focaccina-Ripiena37&layout=compact" alt="Top Languages" />
-</picture>
-
-</div>
+<p align="center">
+  <!-- Visite: questo è un contatore esterno, non di GitHub -->
+  <img src="https://komarev.com/ghpvc/?username=Focaccina-Ripiena37&color=blueviolet" alt="Profile views" />
+</p>
 
 ---
 
@@ -73,7 +52,7 @@
 
 - React + TypeScript
 - API RESTful
-- Flutter per mobile
+- Flutter
 - GitHub Actions / CI
 
 ---
