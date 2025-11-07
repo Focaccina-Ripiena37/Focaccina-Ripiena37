@@ -28,10 +28,6 @@ Lavoro con **Ruby on Rails**, **Python**, **Java**, **TypeScript**, **Flutter** 
 
 </div>
 
----
-
-## 📊 Statistiche GitHub
-
 <div align="center">
 
 <!-- Stats principali -->
