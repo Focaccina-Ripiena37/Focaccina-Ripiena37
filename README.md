@@ -88,13 +88,6 @@ Lavoro con **Ruby on Rails**, **Python**, **Java**, **TypeScript**, **Flutter** 
 
 ---
 
-## 📫 Contatti
-
-- GitHub: [@Focaccina-Ripiena37](https://github.com/Focaccina-Ripiena37)
-- Sito: [duo-calendar.onrender.com](https://duo-calendar.onrender.com)
-
----
-
 <div align="center">
 
 <picture>
