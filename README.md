@@ -57,16 +57,6 @@
 
 ---
 
-<div align="center">
-
-<picture>
-  <source srcset="https://komarev.com/ghpvc/?username=Focaccina-Ripiena37&color=blueviolet" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://komarev.com/ghpvc/?username=Focaccina-Ripiena37&color=blue" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-  <img src="https://komarev.com/ghpvc/?username=Focaccina-Ripiena37" alt="Profile views" />
-</picture>
-
-<br />
-
 > “Il codice è come l'umorismo. Quando lo devi spiegare, è scarso.” — Cory House
 
 </div>
