@@ -3,12 +3,7 @@
 # 👋 Ciao, sono **Focaccina-Ripiena37!**
 
 [![GitHub followers](https://img.shields.io/github/followers/Focaccina-Ripiena37?style=social)](https://github.com/Focaccina-Ripiena37)
-[![Views](https://komarev.com/ghpvc/?username=Focaccina-Ripiena37&color=blueviolet)
-<p align="center">
-  <!-- Visite: questo è un contatore esterno, non di GitHub -->
-  <img src="https://komarev.com/ghpvc/?username=Focaccina-Ripiena37&color=blueviolet" alt="Profile views" />
-</p>
-
+[![Profile Views](https://komarev.com/ghpvc/?username=Focaccina-Ripiena37&style=for-the-badge&color=blueviolet)](https://github.com/Focaccina-Ripiena37)
 
 ---
 
