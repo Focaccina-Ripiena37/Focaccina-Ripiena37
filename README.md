@@ -3,7 +3,6 @@
 # 👋 Ciao, sono **Focaccina-Ripiena37!**
 
 [![GitHub followers](https://img.shields.io/github/followers/Focaccina-Ripiena37?style=social)](https://github.com/Focaccina-Ripiena37)
-[![Website](https://img.shields.io/badge/Website-duo--calendar.onrender.com-blue?style=flat-square&logo=google-chrome&logoColor=white)](https://duo-calendar.onrender.com)
 
 ---
 
