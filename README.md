@@ -7,7 +7,7 @@
 
 ---
 
-### 💻 Sviluppatore full-stack appassionato
+### 💻 Umile studente di UNIFE
 Lavoro con **Ruby on Rails**, **Python**, **Java**, **TypeScript**, **Flutter** e le classiche tecnologie web 🚀
 
 </div>
