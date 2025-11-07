@@ -12,10 +12,6 @@ Lavoro con **Ruby on Rails**, **Python**, **Java**, **TypeScript**, **Flutter** 
 
 </div>
 
----
-
-## 🛠️ Linguaggi e Tecnologie
-
 <div align="center">
 
 ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
