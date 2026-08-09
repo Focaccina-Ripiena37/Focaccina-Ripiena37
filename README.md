@@ -1,58 +1,43 @@
-<div align="center">
+# Focaccina-Ripiena37
 
-# 👋 Ciao, sono **Focaccina-Ripiena37!**
+> Memorable developer positioning.
 
-[![GitHub followers](https://img.shields.io/github/followers/Focaccina-Ripiena37?style=social)](https://github.com/Focaccina-Ripiena37)
-[![Profile Views](https://komarev.com/ghpvc/?username=Focaccina-Ripiena37&style=for-the-badge&color=blueviolet)](https://github.com/Focaccina-Ripiena37)
+**Theme:** GitHub · **Style:** Creative · **Agent:** Full-Stack Engineer
 
----
-
-### 💻 Umile studente di UNIFE
-
-</div>
-
-<div align="center">
-
-![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
-![Rails](https://img.shields.io/badge/-Rails-CC0000?style=flat-square&logo=rubyonrails&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
-</div>
-
+## Header
+> Editing this section in the inspector.
+Hi, I'm **Focaccina-Ripiena37**. This README is tuned for **personal brand** with a GitHub visual system.
 <p align="center">
-  <!-- Stats senza nome -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Focaccina-Ripiena37&show_icons=true&hide_title=true&theme=radical" />
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=Focaccina-Ripiena37&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/hero?username=Focaccina-Ripiena37&theme=github-dark" alt="Focaccina-Ripiena37 hero section" />
+  </picture>
+</p>
+## Heatmap
+Animated year-long contribution calendar.
+## GitHub Stats
+GitSkins stat widgets will use the **GitHub** theme.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=Focaccina-Ripiena37&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stats?username=Focaccina-Ripiena37&theme=github-dark" alt="Focaccina-Ripiena37 stats section" />
+  </picture>
+</p>
+## Projects
+Highlights repositories as proof of work.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=Focaccina-Ripiena37&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/projects?username=Focaccina-Ripiena37&theme=github-dark" alt="Focaccina-Ripiena37 projects section" />
+  </picture>
+</p>
+## Connect
+Contact and social links will appear here.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=Focaccina-Ripiena37&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/social?username=Focaccina-Ripiena37&theme=github-dark" alt="Focaccina-Ripiena37 social section" />
+  </picture>
 </p>
 
-<p align="center">
-  <!-- Lingue reali dalle repo -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Focaccina-Ripiena37&layout=compact&theme=radical" />
-</p>
-
-<p align="center">
-  <!-- Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Focaccina-Ripiena37&theme=radical" />
-</p>
-
----
-
-## 🌱 Attualmente sto imparando
-
-- React + TypeScript
-- API RESTful
-- Flutter
-- GitHub Actions / CI
-
----
-
-> “Il codice è come l'umorismo. Quando lo devi spiegare, è scarso.” — Cory House
-
-</div>
+<!-- Sections: Header, Heatmap, GitHub Stats, Projects, Connect -->
