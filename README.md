@@ -1,8 +1,7 @@
 # Focaccina-Ripiena37
 
 ## Header
-> Editing this section in the inspector.
-Hi, I'm **Focaccina-Ripiena37**.
+> Hi, I'm **Focaccina-Ripiena37**.
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=Focaccina-Ripiena37&theme=github-dark&mode=light" />
