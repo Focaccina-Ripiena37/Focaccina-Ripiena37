@@ -1,4 +1,3 @@
-# Focaccina-Ripiena37
 > Hi, I'm **Focaccina-Ripiena37**.
 <p align="center">
   <picture>
