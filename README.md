@@ -1,6 +1,4 @@
 # Focaccina-Ripiena37
-
-## Header
 > Hi, I'm **Focaccina-Ripiena37**.
 <p align="center">
   <picture>
