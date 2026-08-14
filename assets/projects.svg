@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="225" viewBox="0 0 1000 225">
+<rect width="1000" height="225" rx="18" fill="#0d1117"/>
+<rect x="1" y="1" width="998" height="223" rx="17" fill="none" stroke="#30363d"/>
+<text x="34" y="42" fill="#3fbf9b" font-family="Arial, sans-serif" font-size="14" font-weight="700">PROJECTS</text>
+<rect x="34" y="66" width="452" height="130" rx="12" fill="#161b22" stroke="#30363d"/><text x="54" y="99" fill="#f0f6fc" font-family="Arial" font-size="18" font-weight="700">Featured project #1</text><text x="54" y="130" fill="#8b949e" font-family="Arial" font-size="14">Top public repositories are selected automatically.</text>
+<rect x="514" y="66" width="452" height="130" rx="12" fill="#161b22" stroke="#30363d"/><text x="534" y="99" fill="#f0f6fc" font-family="Arial" font-size="18" font-weight="700">Featured project #2</text><text x="534" y="130" fill="#8b949e" font-family="Arial" font-size="14">Stars, language and description are refreshed daily.</text>
+</svg>

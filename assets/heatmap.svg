@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="145" viewBox="0 0 1000 145">
+<rect width="1000" height="145" rx="18" fill="#0d1117"/>
+<rect x="1" y="1" width="998" height="143" rx="17" fill="none" stroke="#30363d"/>
+<text x="34" y="42" fill="#3fbf9b" font-family="Arial, sans-serif" font-size="14" font-weight="700">HEATMAP</text>
+<text x="34" y="90" fill="#8b949e" font-family="Arial" font-size="15">The contribution heatmap will appear after the first GitHub Action run.</text>
+</svg>

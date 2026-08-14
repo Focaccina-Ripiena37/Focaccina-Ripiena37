@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="180" viewBox="0 0 1000 180">
+<rect width="1000" height="180" rx="18" fill="#0d1117"/>
+<rect x="1" y="1" width="998" height="178" rx="17" fill="none" stroke="#30363d"/>
+<text x="34" y="42" fill="#3fbf9b" font-family="Arial, sans-serif" font-size="14" font-weight="700">ABOUT ME</text>
+<text x="34" y="85" fill="#f0f6fc" font-family="Arial" font-size="21" font-weight="700">Full-Stack Engineer</text>
+<text x="34" y="118" fill="#8b949e" font-family="Arial" font-size="15">I build polished web products with a strong focus on UX, maintainability and developer experience.</text>
+<text x="34" y="148" fill="#8b949e" font-family="Arial" font-size="15">This section refreshes automatically from your GitHub profile bio.</text>
+</svg>

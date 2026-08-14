@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="180" viewBox="0 0 1000 180">
+<rect width="1000" height="180" rx="18" fill="#0d1117"/>
+<rect x="1" y="1" width="998" height="178" rx="17" fill="none" stroke="#30363d"/>
+<text x="34" y="42" fill="#3fbf9b" font-family="Arial, sans-serif" font-size="14" font-weight="700">GITHUB STATS</text>
+<rect x="34" y="66" width="286" height="82" rx="12" fill="#161b22" stroke="#30363d"/><text x="177" y="102" text-anchor="middle" fill="#f0f6fc" font-family="Arial" font-size="25" font-weight="700">—</text><text x="177" y="126" text-anchor="middle" fill="#8b949e" font-family="Arial" font-size="12" font-weight="700">PUBLIC REPOS</text>
+<rect x="357" y="66" width="286" height="82" rx="12" fill="#161b22" stroke="#30363d"/><text x="500" y="102" text-anchor="middle" fill="#f0f6fc" font-family="Arial" font-size="25" font-weight="700">—</text><text x="500" y="126" text-anchor="middle" fill="#8b949e" font-family="Arial" font-size="12" font-weight="700">TOTAL STARS</text>
+<rect x="680" y="66" width="286" height="82" rx="12" fill="#161b22" stroke="#30363d"/><text x="823" y="102" text-anchor="middle" fill="#f0f6fc" font-family="Arial" font-size="25" font-weight="700">—</text><text x="823" y="126" text-anchor="middle" fill="#8b949e" font-family="Arial" font-size="12" font-weight="700">FOLLOWERS</text>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="170" viewBox="0 0 1000 170">
+<rect width="1000" height="170" rx="18" fill="#0d1117"/>
+<rect x="1" y="1" width="998" height="168" rx="17" fill="none" stroke="#30363d"/>
+<text x="34" y="42" fill="#3fbf9b" font-family="Arial, sans-serif" font-size="14" font-weight="700">SKILLS</text>
+<rect x="34" y="70" width="125" height="36" rx="18" fill="#0f2b26" stroke="#1f6f5f"/><text x="96" y="93" text-anchor="middle" fill="#7ee2c2" font-family="Arial" font-size="13" font-weight="700">TypeScript</text>
+<rect x="170" y="70" width="105" height="36" rx="18" fill="#0f2b26" stroke="#1f6f5f"/><text x="222" y="93" text-anchor="middle" fill="#7ee2c2" font-family="Arial" font-size="13" font-weight="700">Next.js</text>
+<rect x="286" y="70" width="95" height="36" rx="18" fill="#0f2b26" stroke="#1f6f5f"/><text x="333" y="93" text-anchor="middle" fill="#7ee2c2" font-family="Arial" font-size="13" font-weight="700">React</text>
+<rect x="392" y="70" width="105" height="36" rx="18" fill="#0f2b26" stroke="#1f6f5f"/><text x="444" y="93" text-anchor="middle" fill="#7ee2c2" font-family="Arial" font-size="13" font-weight="700">Node.js</text>
+<text x="34" y="140" fill="#8b949e" font-family="Arial" font-size="14">Top languages are detected automatically from your public repositories.</text>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="250" viewBox="0 0 1000 250">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0d1117"/><stop offset="1" stop-color="#111a22"/></linearGradient></defs>
+<rect width="1000" height="250" rx="22" fill="url(#g)"/><rect x="1" y="1" width="998" height="248" rx="21" fill="none" stroke="#30363d"/>
+<circle cx="78" cy="91" r="42" fill="#17212b" stroke="#3fbf9b" stroke-width="2"/><text x="78" y="99" text-anchor="middle" fill="#e6edf3" font-family="Arial" font-size="22" font-weight="700">FR37</text>
+<text x="145" y="58" fill="#3fbf9b" font-family="Arial" font-size="13" font-weight="700">LIVE PROFILE</text><text x="145" y="99" fill="#f0f6fc" font-family="Arial" font-size="34" font-weight="700">Focaccina-Ripiena37</text>
+<text x="145" y="132" fill="#8b949e" font-family="Arial" font-size="16">Full-stack engineer · TypeScript · React · Next.js · Node.js</text>
+<line x1="34" y1="176" x2="966" y2="176" stroke="#30363d"/><rect x="34" y="195" width="158" height="32" rx="16" fill="#0f2b26" stroke="#1f6f5f"/><text x="113" y="216" text-anchor="middle" fill="#7ee2c2" font-family="Arial" font-size="13" font-weight="700">FULL-STACK</text>
+<rect x="204" y="195" width="150" height="32" rx="16" fill="#111d2d" stroke="#2f5f8f"/><text x="279" y="216" text-anchor="middle" fill="#9cc7ff" font-family="Arial" font-size="13" font-weight="700">GITHUB NATIVE</text>
+</svg>
