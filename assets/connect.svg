@@ -1,6 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="155" viewBox="0 0 1000 155">
-<rect width="1000" height="155" rx="18" fill="#0d1117"/>
-<rect x="1" y="1" width="998" height="153" rx="17" fill="none" stroke="#30363d"/>
-<text x="34" y="42" fill="#3fbf9b" font-family="Arial, sans-serif" font-size="14" font-weight="700">CONNECT</text>
-<text x="34" y="84" fill="#f0f6fc" font-family="Arial" font-size="19" font-weight="700">Let’s build something useful together.</text><text x="34" y="118" fill="#8b949e" font-family="Arial" font-size="14">GitHub · add LinkedIn / portfolio / email links here when you want.</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="200" viewBox="0 0 1000 200"><defs><linearGradient id="glass" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#ffffff" stop-opacity="0.16"/>
+<stop offset="0.5" stop-color="#ffffff" stop-opacity="0.03"/>
+<stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="starTail" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0" stop-color="#ffffff" stop-opacity="0"/>
+<stop offset="0.75" stop-color="#bfe9da" stop-opacity="0.5"/>
+<stop offset="1" stop-color="#ffffff" stop-opacity="1"/>
+</linearGradient>
+<filter id="cardShadow" x="-30%" y="-30%" width="160%" height="160%">
+<feDropShadow dx="0" dy="6" stdDeviation="7" flood-color="#000000" flood-opacity="0.4"/>
+</filter></defs><rect width="1000" height="200" rx="18" fill="#0d1117"/><clipPath id="canvasClip"><rect width="1000" height="200" rx="18"/></clipPath><g clip-path="url(#canvasClip)"></g><rect x="1" y="1" width="998" height="198" rx="17" fill="none" stroke="#30363d"/><g transform="translate(34,42)" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.00s" dur="0.5s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="0 10" to="0 0" begin="0.00s" dur="0.5s" fill="freeze" additive="sum"/><text x="0" y="0" text-anchor="start" fill="#3fbf9b" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">CONNECT</text></g><g transform="translate(34,84)" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.10s" dur="0.5s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="0 10" to="0 0" begin="0.10s" dur="0.5s" fill="freeze" additive="sum"/><text x="0" y="0" text-anchor="start" fill="#f0f6fc" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">Let’s build something useful together.</text></g><g transform="translate(34,118)" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.20s" dur="0.5s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="0 10" to="0 0" begin="0.20s" dur="0.5s" fill="freeze" additive="sum"/><text x="0" y="0" text-anchor="start" fill="#8b949e" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="400">GitHub: github.com/Focaccina-Ripiena37  ·  Padova</text></g><g transform="translate(34,140)" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.30s" dur="0.5s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="0 10" to="0 0" begin="0.30s" dur="0.5s" fill="freeze" additive="sum"/><rect width="220" height="40" rx="20" fill="#0f2b26" stroke="#3fbf9b" stroke-width="1.5" filter="url(#cardShadow)"><animate attributeName="stroke-opacity" values="1;0.4;1" dur="2.2s" repeatCount="indefinite"/></rect><rect width="220" height="40" rx="20" fill="url(#glass)" pointer-events="none"/><text x="110" y="26" text-anchor="middle" fill="#7ee2c2" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">★ Follow on GitHub</text></g></svg>
